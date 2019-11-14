@@ -11,7 +11,7 @@
         <ListBox Name="svcmd" HorizontalAlignment="Left" Height="419" Margin="365,0,0,0" VerticalAlignment="Top" Width="427"/>
         <Button Content="Найти" Name="btn1" Click="Find" HorizontalAlignment="Left" Margin="87,83,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Добавить" Name="btn2" Click="Add" HorizontalAlignment="Left" Margin="216,83,0,0" VerticalAlignment="Top" Width="75"/>
-        <Label Name="lbl1" Content="" HorizontalAlignment="Left" Margin="0,117,0,0" VerticalAlignment="Top" Height="302" Width="365"/>
+        <Label Name="lbl1" Content="" HorizontalAlignment="Left" Margin="0,117,0,0" VerticalAlignment="Top" Height="302" Width="370"/>
 
     </Grid>
 </Window>
